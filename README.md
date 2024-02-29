@@ -1,6 +1,6 @@
-#ASP.NET Core Web Api CRUD, Repository Pattern, SQLite & Automapper. Swagger for API docs
+# ASP.NET Core Web Api CRUD, Repository Pattern, SQLite & Automapper. Swagger for API docs
 
-##Endpoints
+## Endpoints
 ![Screenshot 2024-02-29 075004](https://github.com/ekowamoonu/formula_one_api/assets/101939909/1ebbcef0-b2c0-4ddd-81a6-7c719c264521)
 
 ##Performing some requests
